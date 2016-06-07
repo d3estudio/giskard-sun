@@ -1,0 +1,15 @@
+{
+  "name": "giskard-sun",
+  "version": "0.0.1",
+  "description": "A little easter egg",
+  "main": "src/sun.js",
+  "author": "Victor Gama <hey@vito.io>",
+  "contributors": [],
+  "license": "MIT",
+  "giskard": {
+    "module": "Sun",
+    "created": "Mon Mar 14 19:24:59 UTC 2016",
+    "help": {}
+  },
+  "dependencies": {}
+}
